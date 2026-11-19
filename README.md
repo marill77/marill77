@@ -1,20 +1,20 @@
  # Hi 👋, I'm Marie
 
-###  Étudiante en systèmes & réseaux 🖧
+###  Systems & Networks student 🖧
 
-- 🔭 I'm currently working on **ma montée en compétences en administration systèmes et réseaux (Linux, Windows Server, Active Directory, DHCP/DNS, VLAN) et Python en autodidacte.**
+- 🔭 I'm currently working on **Building my skills in systems and network administration (Linux, Windows Server, Active Directory, DHCP/DNS, VLAN) and teaching myself Python.**
 
-- 🌱 I'm currently learning **Beaucoup trop de nouvelles choses, mon cerveau fume, mais j'adore !**
+- 🌱 I'm currently learning **So many new things my brain is fried, but I love it**
 
-- 👯 I'm looking to collaborate on **des projets de réseaux, de scripts d'automatisation et des homes labs**
+- 👯 I'm looking to collaborate on **Networking projects, automation scripts and home labs**
 
-- 🤝 I'm looking for help with **trouver mon stage en administration systèmes et réseaux sur Paris comme à l'étranger, du 26 avril 2027 pour 5 mois**
+- 🤝 I'm looking for help with **Looking for a systems and network administration internship, in Paris or abroad, from April 26, 2027 for 5 months**
 
-- 💬 Ask me about **Linux, les réseaux, la reconversion vers l'IT**
+- 💬 Ask me about **Linux, networking, career change into IT**
 
 - 📫 How to reach me **www.linkedin.com/in/marie-mercier-578706274**
 
-- ⚡ Fun fact **Après l’Australie et la Suisse, je compte bien ajouter d’autres pays à ma liste !**
+- ⚡ Fun fact **After Australia and Switzerland, I fully intend to add more countries to my list!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
